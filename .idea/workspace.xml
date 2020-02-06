@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7fe462c-ef18-4b41-a973-6ab173910997" name="Default Changelist" comment="" />
+    <list default="true" id="f7fe462c-ef18-4b41-a973-6ab173910997" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -21,6 +26,7 @@
   <component name="ProjectId" id="1XQkwnduuKmxSvNy8ov71kkkZIF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -47,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580985946616</updated>
       <workItem from="1580985949185" duration="5363000" />
-      <workItem from="1580995964936" duration="4865000" />
+      <workItem from="1580995964936" duration="7447000" />
     </task>
     <servers />
   </component>
